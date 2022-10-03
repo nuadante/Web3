@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT 
 pragma solidity ^0.8.7;
 
- contract Todos {
+ contract TodoApp {
 
     struct Todo {  
         string text; 
